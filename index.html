@@ -21,16 +21,18 @@
         h1, h2 {
             color: white;
             text-shadow: 2px 2px 4px black;
+            margin-top: 100px; /* Add margin to avoid overlap with the fixed banner */
         }
         h1 {
-            font-size: 2.5em;
+            font-size: 2.5em; /* Adjust the font size for h1 */
         }
         h2 {
-            font-size: 2em;
+            font-size: 2em; /* Adjust the font size for h2 */
         }
         p {
             color: white;
             text-shadow: 2px 2px 4px black;
+            font-size: 1em; /* Adjust the font size for paragraphs */
         }
         .story, .features, .nfts, .community, .future {
             margin: 20px 0;
@@ -49,13 +51,27 @@
             height: auto;
             border-radius: 10px;
         }
+        .banner {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            z-index: 1000;
+            background: rgba(0, 0, 0, 0.7); /* Optional: Add background to make the banner stand out */
+        }
+        .banner img {
+            width: 100%;
+            height: auto;
+        }
     </style>
 </head>
 <body>
+    <div class="banner">
+        <img src="https://github.com/DONK-NFT/DONK/blob/main/images/donk1-min.png?raw=true" alt="Banner Art">
+    </div>
     <h1>Welcome to Donkeys On Ketamine (DONK)!</h1>
     <div class="image-container">
         <img src="https://github.com/DONK-NFT/DONK/blob/main/images/dwk-removebg-preview.png?raw=true" alt="DONK Logo">
-        <img src="https://github.com/DONK-NFT/DONK/blob/main/images/donk1-min.png?raw=true" alt="Banner Art">
     </div>
 
     <div class="story">
