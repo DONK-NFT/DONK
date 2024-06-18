@@ -2,7 +2,7 @@
 
 ![DONK Logo](https://github.com/DONK-NFT/DONK/blob/main/images/dwk-removebg-preview.png?raw=true)
 
-Welcome to the world of Donkeys On Ketamine (DONK), a memecoin that symbolizes the unpredictable, whimsical, and sometimes nonsensical nature of the crypto world.
+## Welcome to the world of Donkeys On Ketamine (DONK), a memecoin that symbolizes the unpredictable, whimsical, and sometimes nonsensical nature of the crypto world.
 
 ## The Origin Story
 
