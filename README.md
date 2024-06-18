@@ -24,9 +24,9 @@ The DONK coin isn't just about the laughs and the lore; it has a unique purpose 
 
 The generative NFT collection will feature a variety of spaced-out farm animals each on their own "magical formula" and each more spaced-out and whimsically illustrated than the last. Donkeys on Ketamine is the first series in the collection.
 
-![Additional Artwork](https://github.com/DONK-NFT/DONK/blob/main/images/og-nu.png?raw=true)
+![Additional Artwork](https://github.com/DONK-NFT/DONK/blob/main/images/2.jpg?raw=true)
 
 Join us in this spaced-out journey and be a part of the whimsical world of Dexter and his friends!
 
-![Additional Artwork](https://github.com/DONK-NFT/DONK/blob/main/images/2.jpg?raw=true)
-![Additional Artwork](https://github.com/DONK-NFT/DONK/blob/main/images/groen.jpg?raw=true)
+
+![Additional Artwork](https://github.com/DONK-NFT/DONK/blob/main/images/og-nu.png?raw=true)
