@@ -2,9 +2,9 @@
 
 ![DONK Logo](https://github.com/DONK-NFT/DONK/blob/main/images/dwk-removebg-preview.png?raw=true)
 
-### ***Welcome to the world of Donkeys On Ketamine (DONK), a memecoin that symbolizes the unpredictable, whimsical, and sometimes nonsensical nature of the crypto world.***
+## ***Welcome to the world of Donkeys On Ketamine (DONK), a memecoin that symbolizes the unpredictable, whimsical, and sometimes nonsensical nature of the crypto world.***
 
-#### **The Origin Story**
+### **The Origin Story**
 
 Once upon a time, in the rural outskirts of the cryptoverse, amongst the vast fields of farms, there lived a donkey named Dexter. Dexter wasn't just any ordinary donkey; he had a knack for stumbling into the most peculiar situations. One fateful day, while foraging for carrots, Dexter accidentally trotted into a mysterious cave filled with sparkly, swirling dust. Curious as ever, he sniffed around and took a big whiff.
 
@@ -12,11 +12,11 @@ Once upon a time, in the rural outskirts of the cryptoverse, amongst the vast fi
 
 Instantly, Dexter's eyes transformed into bright colored swirls, and he found himself in a euphoric state of mind. The swirling dust was none other than a magical substance known as "Ketamine Sparkles," believed to unlock hidden, whimsical realms of the mind. As Dexter wandered back to his barn, he began spouting profound yet nonsensical wisdom to the other animals.
 
-#### **Features**
+### **Features**
 
 The coin's logo features Dexter in all his spaced-out glory, reminding holders to embrace the fun and unexpected turns in life. Each coin carries the spirit of Dexter's adventures, a blend of curiosity, whimsy, and a touch of chaos.
 
-#### **The "Spaced-Out Farm Animals" (SOFA) NFT Collection**
+### **The "Spaced-Out Farm Animals" (SOFA) NFT Collection**
 
 The DONK coin isn't just about the laughs and the lore; it has a unique purpose that ties into the growing world of NFTs. Dexter has also inspired the creation of The "Spaced-Out Farm Animals" (SOFA) collection.
 
