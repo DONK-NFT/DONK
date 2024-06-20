@@ -6,11 +6,8 @@
 
 ### ֍ ***The Origin Story***
 
-Once upon a time, in the rural outskirts of the cryptoverse, amongst the vast fields of farms, there lived a donkey named Dexter. Dexter wasn't just any ordinary donkey; he had a knack for stumbling into the most peculiar situations. One fateful day, while foraging for carrots, Dexter accidentally trotted into a mysterious cave filled with sparkly, swirling dust. Curious as ever, he sniffed around and took a big whiff.
-
 ![Banner Art](https://github.com/DONK-NFT/DONK/blob/main/images/dnkb.png?raw=true)
-
-Instantly, Dexter's eyes transformed into bright colored swirls, and he found himself in a euphoric state of mind. The swirling dust was none other than a magical substance known as "Ketamine Sparkles," believed to unlock hidden, whimsical realms of the mind. As Dexter wandered back to his barn, he began spouting profound yet nonsensical wisdom to the other animals.
+Once upon a time, in the rural outskirts of the cryptoverse, amongst the vast fields of farms, there lived a donkey named Dexter. Dexter wasn't just any ordinary donkey; he had a knack for stumbling into the most peculiar situations. One fateful day, while foraging for carrots, Dexter accidentally trotted into a mysterious cave filled with sparkly, swirling dust. Curious as ever, he sniffed around and took a big whiff. Instantly, Dexter's eyes transformed into bright colored swirls, and he found himself in a euphoric state of mind. The swirling dust was none other than a magical substance known as "Ketamine Sparkles," believed to unlock hidden, whimsical realms of the mind. As Dexter wandered back to his barn, he began spouting profound yet nonsensical wisdom to the other animals.
 
 ### ֍ ***Features***
 
@@ -22,7 +19,7 @@ The DONK coin isn't just about the laughs and the lore. It has a unique purpose 
 
 ![Additional Artwork](https://github.com/DONK-NFT/DONK/blob/main/images/dali.jpg?raw=true)
 
-Join us in this spaced-out journey and be a part of the whimsical world of Dexter and his friends!
+## **Join us in this spaced-out journey and be a part of the whimsical world of Dexter and his friends!**
 
 ![Additional Artwork](https://github.com/DONK-NFT/DONK/blob/main/images/2.jpg?raw=true)
 
