@@ -7,7 +7,7 @@
 ### ֍ ***The Origin Story***
 
 ![Banner Art](https://github.com/DONK-NFT/DONK/blob/main/images/dnkb.png?raw=true)
-Once upon a time, in the rural outskirts of the cryptoverse, amongst the vast fields of farms, there lived a donkey named Dexter. Dexter wasn't just any ordinary donkey; he had a knack for stumbling into the most peculiar situations. One fateful day, while foraging for carrots, Dexter accidentally trotted into a mysterious cave filled with sparkly, swirling dust. Curious as ever, he sniffed around and took a big whiff. Instantly, Dexter's eyes transformed into bright colored swirls, and he found himself in a euphoric state of mind. The swirling dust was none other than a magical substance known as "Ketamine Sparkles," believed to unlock hidden, whimsical realms of the mind. As Dexter wandered back to his barn, he began spouting profound yet nonsensical wisdom to the other animals.
+Once upon a time, in the rural outskirts of the cryptoverse, amongst the vast fields of mining farms, there lived a donkey named Dexter. Dexter wasn't just any ordinary donkey; he had a knack for stumbling into the most peculiar situations. One fateful day, while foraging for carrots, Dexter accidentally trotted into a mysterious cave filled with sparkly, swirling dust. Curious as ever, he sniffed around and took a big whiff. Instantly, Dexter's eyes transformed into bright colored swirls, and he found himself in a euphoric state of mind. The swirling dust was none other than a magical substance known as "Ketamine Sparkles," believed to unlock hidden, whimsical realms of the mind. As Dexter wandered back to his barn, he began spouting profound yet nonsensical wisdom to the other animals.
 
 ### ֍ ***Features***
 
