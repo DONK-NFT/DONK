@@ -11,7 +11,7 @@ Once upon a time, in the rural outskirts of the cryptoverse, amongst the vast fi
 
 ### ֍ ***Features***
 
-The coin's logo has taken on many different, but its foundation, remains resilient. In which ever variety you come across, the DONK token features Dexter in all his spaced-out glory. The difference in appearance and mood swings Dexter has experienced on his journey down K-Hole Lane, are a reminder to HODLers to embrace the fun and unexpected turns in life.  Don't be a FOMO.  At their core, each token design carries the spirit of Dexter's adventures within it, along with his blend of curiosity, wit, whimsy, and a touch of chaos, with an occasional side of melancholy.
+The coin's logo has taken on many different forms, but its foundation, remains resilient. In which ever variety you come across, the DONK token features Dexter in all his spaced-out glory. The difference in appearance and mood swings Dexter has experienced on his journey down K-HODL Lane, are a reminder to HODLers to embrace the fun and unexpected turns in life.  Don't be a FOMO.  At their core, each token design carries the spirit of Dexter's adveMK)? I'M I'LL) I'LL(MILK MMntures within it, along with his blend of curiosity, wit, whimsy, and a touch of chaos, with an occasional side of melancholy.
 
 ### ֍ ***Spaced-Out Farm Animals (SOFA) NFT Collection***
 
