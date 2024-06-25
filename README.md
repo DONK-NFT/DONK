@@ -1,4 +1,4 @@
-# <a href="https://donk-nft.github.io/DONK/">Donkeys On Ketameme (DONK)</a>
+1¹# <a href="https://donk-nft.github.io/DONK/">Donkeys On Ketameme (DONK)</a>
 
 ![DONK Logo](https://github.com/DONK-NFT/DONK/blob/main/images/dwk-removebg-preview.png?raw=true)
 
@@ -11,7 +11,7 @@ Once upon a time, in the rural outskirts of the cryptoverse, amongst the vast fi
 
 ### ֍ ***Features***
 
-The coin's logo has taken on many different forms, but its foundation, remains resilient. In which ever variety you come across, the DONK token features Dexter in all his spaced-out glory. The difference in appearance and mood swings Dexter has experienced on his journey down the mysterious cave, satirically dubbed "K-HODL", are represented on each token design. A reminder to K-HODLers, to embrace the fun and unexpected turns in life, but also beware of the many dangers and scams that lurk around every corner in the cryptoverse.  So, don't be a FOMO. The first 1000 holders of the DONK token will be granted VIP access to the NFT series upon its release, and will receive a the rarest NFT of the DONK series, a digital representation of the DONK token created in our flagship digital underground studio, aptly named, the Keta Mines. At their core, each of these 1000 original NFTs carry the spirit of Dexter's emotional roller coaster, during his adventures in the K-HODL and his farm, Ketameme Green along with his radical adventures within it, along with his blend of curiosity, wit, whimsy, and a touch of chaos, with an occasional side of melancholy.
+The coin's logo has taken on many different forms, but its foundation, remains resilient. In which ever variety you come across, the DONK token features Dexter in all his spaced-out glory. The difference in appearance and mood swings Dexter has experienced on his journey down the mysterious cave, satirically dubbed "K-HODL", are represented on each token design. A reminder to K-HODLers, to embrace the fun and unexpected turns in life, but also beware of the many dangers and scams that lurk around every corner in the cryptoverse.  So, don't be a FOMO. The first 1000 holders of the DONK token will be granted VIP access to the NFT series upon its release, and will receive a the rarest NFT of the DONK series, a digital representation of the DONK token created in our flagship digital underground studio, aptly named, the Keta Mines. At their core, each of these 1000 original NFTs carry the spirit of Dexter's emotional roller coaster, during his adventures in the K-HODL and his farm, Ketameme Green, along with his blend of curiosity, wit, whimsy, and a touch of chaos, with an occasional side of melancholy.
 
 ### ֍ ***Spaced-Out Farm Animals (SOFA) NFT Collection***
 
